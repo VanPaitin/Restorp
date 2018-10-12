@@ -12,6 +12,9 @@ City.create(name: 'Port Harcourt', url_key: 'port-harcourt')
 
 restaurant_columns = Restaurant.column_names
 mapped_weekday = { 1 => 'Sunday', 2 => 'Monday', 3 => 'Tuesday', 4 => 'Wednesday', 5 => 'Thursday', 6 => 'Friday', 7 => 'Saturday' }
+meal_prices = (950..2150).select do |price|
+  price % 50 == 0
+end
 
 City.all.each do |city|
   # Get the file_path of the city's restaurants json file
@@ -46,4 +49,14 @@ City.all.each do |city|
   end
 
   puts "Completed creation of #{city.name} restaurants"
+end
+
+include FactoryBot::Syntax::Methods
+
+Restaurant.includes(:cuisines).each do |restaurant|
+  restaurant.cuisines.each do |cuisine|
+    create(:meal, price: meal_prices.sample, restaurant: restaurant, cuisine: cuisine)
+  end
+
+  puts "Completely creating the meals of Restaurant #{restaurant.name}"
 end
