@@ -34,7 +34,13 @@ City.all.each do |city|
 
       if column == 'schedules'
         restaurant['schedules'].each do |schedule|
-          schedule['weekday'] = mapped_weekday[schedule['weekday']]
+          week_day_name = mapped_weekday[schedule['weekday']]
+          schedule[week_day_name] = {
+            'opening_time' => schedule['opening_time'],
+            'closing_time' => schedule['closing_time'],
+            'opening_type' => schedule['opening_type']
+          }
+          schedule.slice! week_day_name
         end
       end
 
