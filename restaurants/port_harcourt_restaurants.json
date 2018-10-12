@@ -1,0 +1,4901 @@
+[
+  {
+    "id": 1556,
+    "is_active": true,
+    "code": "n9il",
+    "name": "Uhuru",
+    "description": "Chinese Restaurant",
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n9il.jpg?v=20180212134632",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/b8cc00a2c2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/3b2284bb6e"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "b8cc00a2c2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "3b2284bb6e",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4,
+    "review_number": 1,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Genesis Plaza, Tombia road GRA PH1, PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8237540000000001,
+    "longitude": 6.9929750000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 68,
+        "name": "Asian",
+        "url_key": "asian"
+      },
+      {
+        "id": 75,
+        "name": "Seafood",
+        "url_key": "seafood"
+      },
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n9il/uhuru",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "uhuru",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19142,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19144,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19143,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19145,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19147,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19146,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19148,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59043,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/b8cc00a2c2",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1340,
+    "is_active": true,
+    "code": "n2ju",
+    "name": "Genesis Pizza - GRA PH1",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2ju.png?v=20170531121620",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/24286c4417"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "49b81c15f2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "24286c4417",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.8999999999999999,
+    "review_number": 19,
+    "review_with_comment_number": 4,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 38,
+      "name": "Genesis Pizza",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n2ju",
+      "main_vendor_id": 1340,
+      "url_key": "genesis-pizza",
+      "code": "cs8nn"
+    },
+    "address": "Genesis Plaza, Tombia road GRA PH1, PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8237540000000001,
+    "longitude": 6.9929750000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 75,
+        "name": "Seafood",
+        "url_key": "seafood"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n2ju/genesis-pizza",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-pizza",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17500,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17501,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17502,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17503,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17504,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17505,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17506,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59042,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 3,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1337,
+    "is_active": true,
+    "code": "n7wo",
+    "name": "Genesis Restaurant - GRA PH1",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7wo.png?v=20170531121449",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/c125757832"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7aee3063a2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "c125757832",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.2999999999999998,
+    "review_number": 23,
+    "review_with_comment_number": 12,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 37,
+      "name": "Genesis Restaurant",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n7wo",
+      "main_vendor_id": 1337,
+      "url_key": "genesis-restaurant",
+      "code": "ce0xx"
+    },
+    "address": "Genesis Plaza, Tomibia road, GRA PH1 Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8237540000000001,
+    "longitude": 6.9929750000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n7wo/genesis-restaurant-gra-ph1",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-restaurant-gra-ph1",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17479,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17480,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17481,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17482,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17483,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17484,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17485,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59044,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1558,
+    "is_active": true,
+    "code": "n8il",
+    "name": "Genesis Pizza - Ada George",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2ju.png?v=20170531121620",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/24286c4417"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "49b81c15f2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "24286c4417",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4,
+    "review_number": 8,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 38,
+      "name": "Genesis Pizza",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n2ju",
+      "main_vendor_id": 1340,
+      "url_key": "genesis-pizza",
+      "code": "cs8nn"
+    },
+    "address": "Genesis, Location Junction , Ada George Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8491619999999998,
+    "longitude": 6.9715990000000003,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 84,
+        "name": "Lebanese",
+        "url_key": "lebanese"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n8il/genesis-pizza-ada-george",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-pizza-ada-george",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19155,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19156,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19157,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19158,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19159,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19160,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19161,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59068,
+        "date": "2018-09-23",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 59062,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1458,
+    "is_active": true,
+    "code": "n6lq",
+    "name": "Genesis Restaurant - Trans Amadi",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7wo.png?v=20170531121449",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/c125757832"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7aee3063a2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "c125757832",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.8999999999999999,
+    "review_number": 17,
+    "review_with_comment_number": 3,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 37,
+      "name": "Genesis Restaurant",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n7wo",
+      "main_vendor_id": 1337,
+      "url_key": "genesis-restaurant",
+      "code": "ce0xx"
+    },
+    "address": "Genesis, Trans Amadi, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8046100000000003,
+    "longitude": 7.0287300000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n6lq/genesis-restaurant-trans-amadi",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-restaurant-trans-amadi",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18439,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18440,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18441,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18442,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18443,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18444,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18445,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59038,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "15:30",
+        "closing_time": "17:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1607,
+    "is_active": true,
+    "code": "n1vh",
+    "name": "Eden Kingdom Lounge",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n1vh.png?v=20180525103510",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/57d46170cc",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/66c9563a99"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "57d46170cc",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "66c9563a99",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4,
+    "review_number": 6,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "3B, Evo Road, GRA Phase 2, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8185820000000001,
+    "longitude": 7.0021319999999996,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 20,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n1vh/eden-kingdom-lounge",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "eden-kingdom-lounge",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19519,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19520,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19522,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19521,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19523,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19524,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19525,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/57d46170cc",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1514,
+    "is_active": true,
+    "code": "n5dh",
+    "name": "Bukka By Choice",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n5dh.jpg",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/95519ab5b4",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/a53a9d5d4a"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "95519ab5b4",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "a53a9d5d4a",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.7999999999999998,
+    "review_number": 36,
+    "review_with_comment_number": 1,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "4, Agudama street, D-Line Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8033159999999997,
+    "longitude": 7.0065249999999999,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 113,
+        "name": "African",
+        "url_key": "african"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n5dh/bukha-by-choice",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "bukha-by-choice",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18891,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18892,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18893,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18894,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18895,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18896,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18897,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "14:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/95519ab5b4",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1376,
+    "is_active": true,
+    "code": "n8ry",
+    "name": "Asia Town Restaurant",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n8ry.jpg?v=20170608131811",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/12c5eb0e82",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/5211e153de"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "12c5eb0e82",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "5211e153de",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.5999999999999996,
+    "review_number": 38,
+    "review_with_comment_number": 3,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "10 Forces Ave, Old GRA, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.7806860000000002,
+    "longitude": 7.0061210000000003,
+    "minimum_order_amount": 2000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": true,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 4,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 69,
+        "name": "Thai",
+        "url_key": "thai"
+      },
+      {
+        "id": 87,
+        "name": "Vegetarian",
+        "url_key": "vegetarian"
+      },
+      {
+        "id": 68,
+        "name": "Asian",
+        "url_key": "asian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n8ry/asian",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "asian",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17798,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17799,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17800,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17801,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17802,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17803,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17804,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 3,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/12c5eb0e82",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1459,
+    "is_active": true,
+    "code": "n6ln",
+    "name": "Genesis Pizza - Trans Amadi",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2ju.png?v=20170531121620",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/24286c4417"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "49b81c15f2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "24286c4417",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.2999999999999998,
+    "review_number": 24,
+    "review_with_comment_number": 3,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 38,
+      "name": "Genesis Pizza",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n2ju",
+      "main_vendor_id": 1340,
+      "url_key": "genesis-pizza",
+      "code": "cs8nn"
+    },
+    "address": "Genesis Plaza, Trans Amadi, PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8046100000000003,
+    "longitude": 7.0287300000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 20,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 84,
+        "name": "Lebanese",
+        "url_key": "lebanese"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n6ln/genesis-pizza-trans-amadi",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-pizza-trans-amadi",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18446,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18447,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18448,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18449,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18450,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18451,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18452,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/49b81c15f2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1565,
+    "is_active": true,
+    "code": "n7mx",
+    "name": "Le Connoisseur By Menage",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7mx.jpg?v=20180221130738",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/57d46170cc",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/005891cd53"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "57d46170cc",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "005891cd53",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.5,
+    "review_number": 4,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "93, Woji Rd., GRA Phase 2, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8136060000000001,
+    "longitude": 7.0022140000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n7mx/le-connoisseur-by-menage",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "le-connoisseur-by-menage",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19217,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19218,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19236,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19219,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19222,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19225,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19237,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59071,
+        "date": "2018-09-23",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 59040,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "15:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/57d46170cc",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1583,
+    "is_active": true,
+    "code": "n6mc",
+    "name": "Just Treasure",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n6mc.jpg?v=20180305124330",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7c9e10d6c8",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/aee8dee7de"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7c9e10d6c8",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "aee8dee7de",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.2999999999999998,
+    "review_number": 6,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "21, Ezimgbu Link Road (Mummy B Road) GRA PHASE IV, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8267189999999998,
+    "longitude": 7.0096829999999999,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 119,
+        "name": "Shawarma",
+        "url_key": "shawarma"
+      },
+      {
+        "id": 78,
+        "name": "Burger",
+        "url_key": "burger"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n6mc/just-treasure",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "just-treasure",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19352,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19354,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19353,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19355,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19356,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19357,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19358,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "13:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7c9e10d6c8",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1471,
+    "is_active": true,
+    "code": "n4jb",
+    "name": "Genesis Restaurant - Ada George",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7wo.png?v=20170531121449",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/c125757832"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7aee3063a2",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "c125757832",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.7000000000000002,
+    "review_number": 3,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Genesis, Location Junction , Ada George Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8491619999999998,
+    "longitude": 6.9715990000000003,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n4jb/genesis-restaurant-ada-george",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "genesis-restaurant-ada-george",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18532,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18533,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18534,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18535,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18536,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18537,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18538,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59067,
+        "date": "2018-09-23",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 59059,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7aee3063a2",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1624,
+    "is_active": true,
+    "code": "n9vz",
+    "name": "Cravings",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n9vz.JPG?v=20180613165326",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/402fbb4ea8",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/c454274cf0"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "402fbb4ea8",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "c454274cf0",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.7999999999999998,
+    "review_number": 5,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "20 Elelenwo Street, Rurome-Rezigbu GRA PH1, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8263199999999999,
+    "longitude": 6.9931729999999996,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 20,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      },
+      {
+        "id": 96,
+        "name": "Pasta",
+        "url_key": "pasta"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 64,
+        "name": "Sandwiches",
+        "url_key": "sandwiches"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n9vz/cravings",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "cravings",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19635,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19636,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19638,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19637,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19639,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19640,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19641,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/402fbb4ea8",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1453,
+    "is_active": true,
+    "code": "n2ij",
+    "name": "Go Green",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2ij.jpg?v=20171006103044",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/5fbc6c386b",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/40a2d18343"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "5fbc6c386b",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "40a2d18343",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.8999999999999999,
+    "review_number": 13,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "11, Obagi Street, GRA PH1 Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8263199999999999,
+    "longitude": 6.9931729999999996,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 87,
+        "name": "Vegetarian",
+        "url_key": "vegetarian"
+      },
+      {
+        "id": 126,
+        "name": "Healthy Food",
+        "url_key": "healthy-food"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n2ij/go-green",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "go-green",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18504,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18505,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18506,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18507,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18508,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18509,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18510,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "13:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59053,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/5fbc6c386b",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1425,
+    "is_active": true,
+    "code": "n5yg",
+    "name": "The Hub",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n5yg.jpg?v=20170802123830",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/5fbc6c386b",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/16390074f3"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "5fbc6c386b",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "16390074f3",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.7000000000000002,
+    "review_number": 6,
+    "review_with_comment_number": 3,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "The Hub, Ellah Camp, beside DHL, Trans Amadi rd,",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.7983719999999996,
+    "longitude": 7.0382220000000002,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 50,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 150,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 78,
+        "name": "Burger",
+        "url_key": "burger"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      },
+      {
+        "id": 64,
+        "name": "Sandwiches",
+        "url_key": "sandwiches"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n5yg/the-hub",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "the-hub",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18250,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18251,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18253,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18252,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18254,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18255,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:30"
+      },
+      {
+        "id": 18256,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "19:30"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/5fbc6c386b",
+    "minimum_delivery_time_range": "50"
+  },
+  {
+    "id": 1428,
+    "is_active": true,
+    "code": "n3ai",
+    "name": "Slush",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n3ai.jpg?v=20170907075244",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": null,
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/ee7a010f0c"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": null,
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "ee7a010f0c",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.2999999999999998,
+    "review_number": 3,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Rockstone International, No 8 rumuibekwe road, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8463430000000001,
+    "longitude": 7.0480080000000003,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 126,
+        "name": "Healthy Food",
+        "url_key": "healthy-food"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 119,
+        "name": "Shawarma",
+        "url_key": "shawarma"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n3ai/slush",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "slush",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18424,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:00"
+      },
+      {
+        "id": 18425,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:00"
+      },
+      {
+        "id": 18426,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:00"
+      },
+      {
+        "id": 18428,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:00"
+      },
+      {
+        "id": 18427,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "11:00",
+        "closing_time": "19:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": null,
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1559,
+    "is_active": true,
+    "code": "n3mo",
+    "name": "Marz Cafe",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n3mo.jpg?v=20180217210221",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/dfe3df37de",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/74bed52c94"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "dfe3df37de",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "74bed52c94",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.5,
+    "review_number": 4,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "2, Iyowuna Drive (Beside Market Squre), Off Odili rooad, Trans Amadi PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.7970519999999999,
+    "longitude": 7.0408879999999998,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 99,
+        "name": "Breakfast",
+        "url_key": "breakfast"
+      },
+      {
+        "id": 126,
+        "name": "Healthy Food",
+        "url_key": "healthy-food"
+      },
+      {
+        "id": 64,
+        "name": "Sandwiches",
+        "url_key": "sandwiches"
+      },
+      {
+        "id": 191,
+        "name": "Small Chops",
+        "url_key": "afghani"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n3mo/marz-cafe",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "marz-cafe",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19175,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      },
+      {
+        "id": 19176,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      },
+      {
+        "id": 19177,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      },
+      {
+        "id": 19178,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      },
+      {
+        "id": 19180,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      },
+      {
+        "id": 19179,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "21:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59679,
+        "date": "2018-10-06",
+        "opening_type": "unavailable",
+        "opening_time": "15:30",
+        "closing_time": "16:48"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/dfe3df37de",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1596,
+    "is_active": true,
+    "code": "n7eu",
+    "name": "Z lala",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7eu.jpg",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7c9e10d6c8",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/ee7a010f0c"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7c9e10d6c8",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "ee7a010f0c",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 5,
+    "review_number": 1,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Big Treat Building, Airforce, Aba Rd PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8331790000000003,
+    "longitude": 7.0117529999999997,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 126,
+        "name": "Healthy Food",
+        "url_key": "healthy-food"
+      },
+      {
+        "id": 119,
+        "name": "Shawarma",
+        "url_key": "shawarma"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n7eu/z-lala",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "z-lala",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19435,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19436,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19437,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19438,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19439,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19440,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19441,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59055,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7c9e10d6c8",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1609,
+    "is_active": true,
+    "code": "n4yw",
+    "name": "Galaxy Buffet",
+    "description": null,
+    "logo": "http://ir0.mobify.com/png/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n4yw.png?v=20180604152513",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/12c5eb0e82",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/92c2327683"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "12c5eb0e82",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "92c2327683",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 5,
+    "review_number": 1,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "17, Apara Road, G.R.A Phase II, Port Harcourt, Rivers",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8159770000000002,
+    "longitude": 6.9983510000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 45,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": true,
+    "is_preorder_available": true,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 68,
+        "name": "Asian",
+        "url_key": "asian"
+      },
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n4yw/galaxy-buffet",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "galaxy-buffet",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19532,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19533,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19534,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19535,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19536,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19537,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19626,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "13:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59048,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/12c5eb0e82",
+    "minimum_delivery_time_range": "45"
+  },
+  {
+    "id": 1598,
+    "is_active": true,
+    "code": "n8wd",
+    "name": "Collins Bukka",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n8wd.jpg",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/8a257b027f",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/2fd0086cd3"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "8a257b027f",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "2fd0086cd3",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.7999999999999998,
+    "review_number": 13,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "195, Peter Odili Rd, Trans Amadi, PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.7990500000000003,
+    "longitude": 7.0306189999999997,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 40,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 99,
+        "name": "Breakfast",
+        "url_key": "breakfast"
+      },
+      {
+        "id": 96,
+        "name": "Pasta",
+        "url_key": "pasta"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n8wd/collins-bukka",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "collins-bukka",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 19454,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19455,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19456,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19457,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19458,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19459,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/8a257b027f",
+    "minimum_delivery_time_range": "40"
+  },
+  {
+    "id": 1426,
+    "is_active": true,
+    "code": "n7qa",
+    "name": "Pizzamore",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7qa.jpg?v=20170807141418",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/45abfc3b22",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/f32f409860"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "45abfc3b22",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "f32f409860",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.4000000000000004,
+    "review_number": 12,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Pizzamore, 21, George Sekibo Str., Trans Amadi",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.796977,
+    "longitude": 7.0446140000000002,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": false,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 62,
+        "name": "Italian",
+        "url_key": "italian"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n7qa/pizzamore",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "pizzamore",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18305,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18306,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18307,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18308,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18309,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18310,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18311,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "13:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/45abfc3b22",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1330,
+    "is_active": true,
+    "code": "n2yg",
+    "name": "Piazza",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2yg.jpg?v=20170602122617",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/e60520727c",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/ee91e75582"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "e60520727c",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "ee91e75582",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.5,
+    "review_number": 13,
+    "review_with_comment_number": 1,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 52,
+      "name": "Piazza",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n2yg",
+      "main_vendor_id": 1330,
+      "url_key": "piazza",
+      "code": "cp0oh"
+    },
+    "address": "152 Tombia Street | Royal Residence Close, Port Harcourt, Nigeria",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8241480000000001,
+    "longitude": 6.9921319999999998,
+    "minimum_order_amount": 2000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": false,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 78,
+        "name": "Burger",
+        "url_key": "burger"
+      },
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      },
+      {
+        "id": 84,
+        "name": "Lebanese",
+        "url_key": "lebanese"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n2yg/piazza",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "piazza",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17433,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17434,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17435,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17436,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17439,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17438,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17437,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59051,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/e60520727c",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1527,
+    "is_active": true,
+    "code": "n5aw",
+    "name": "South 66",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n5aw.jpg",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/50900c4926",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/eece048ccc"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "50900c4926",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "eece048ccc",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.2000000000000002,
+    "review_number": 32,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Evo Rd, Opp Bruno's GRA PH2, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8205730000000004,
+    "longitude": 6.9974270000000001,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 50,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 150,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 127,
+        "name": "British",
+        "url_key": "british"
+      },
+      {
+        "id": 78,
+        "name": "Burger",
+        "url_key": "burger"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n5aw/south-66",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "south-66",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18996,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18997,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18998,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19000,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18999,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19002,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 19001,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "11:30",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/50900c4926",
+    "minimum_delivery_time_range": "50"
+  },
+  {
+    "id": 1331,
+    "is_active": true,
+    "code": "n8ok",
+    "name": "Casablanca",
+    "description": "Nigerian styled local dishes",
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n8ok.jpg?v=20170606131947",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7a2860715f",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/1a85d8b50e"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "7a2860715f",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "1a85d8b50e",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.7999999999999998,
+    "review_number": 29,
+    "review_with_comment_number": 7,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "2, Sani Abacha Road, GRA Phase II.",
+    "address_line2": "Casablanca Junction, Port Harcourt, Nigeria",
+    "post_code": null,
+    "latitude": 4.8148970000000002,
+    "longitude": 6.9877589999999996,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 20,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      },
+      {
+        "id": 113,
+        "name": "African",
+        "url_key": "african"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n8ok/casablanca",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "casablanca",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17447,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17448,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17449,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17450,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17451,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "8:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17452,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17453,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59060,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/7a2860715f",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1333,
+    "is_active": true,
+    "code": "n2se",
+    "name": "Beijing Chops - Stadium Rd",
+    "description": "Cheap Chinese menu",
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2se.jpg?v=20170608111443",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/f7ab6d846a",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/f0d008c986"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "f7ab6d846a",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "f0d008c986",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.4000000000000004,
+    "review_number": 46,
+    "review_with_comment_number": 8,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "31, Stadium rd, Rumuomasi, PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8315590000000004,
+    "longitude": 7.0133150000000004,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 68,
+        "name": "Asian",
+        "url_key": "asian"
+      },
+      {
+        "id": 102,
+        "name": "Noodles",
+        "url_key": "noodles"
+      },
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n2se/beijin-chops",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "beijin-chops",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17454,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17456,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17455,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17457,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17458,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17459,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17460,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59041,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/f7ab6d846a",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1383,
+    "is_active": true,
+    "code": "n7vf",
+    "name": "Sumptuous Meals - PH Mall",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7vf.jpg?v=20170614080145",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/d7bca47d1e",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/9f6fc09124"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "d7bca47d1e",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "9f6fc09124",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 4.2000000000000002,
+    "review_number": 55,
+    "review_with_comment_number": 6,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 36,
+      "name": "Sumptuous Meals",
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": "n7vf",
+      "main_vendor_id": 1383,
+      "url_key": "sumptuous-meals",
+      "code": "cn6gd"
+    },
+    "address": "Port Harcourt Mall, Old GRA PH",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.7755609999999997,
+    "longitude": 7.0107860000000004,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 45,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      },
+      {
+        "id": 119,
+        "name": "Shawarma",
+        "url_key": "shawarma"
+      },
+      {
+        "id": 123,
+        "name": "Nigerian",
+        "url_key": "nigerian"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n7vf/sumptuous-meals-restaurant",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "sumptuous-meals-restaurant",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17862,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17863,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17864,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17865,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17866,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17867,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17868,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 60087,
+        "date": "2018-10-11",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/d7bca47d1e",
+    "minimum_delivery_time_range": "45"
+  },
+  {
+    "id": 1378,
+    "is_active": true,
+    "code": "n0de",
+    "name": "Sky Bar",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n0de.jpg?v=20171025120703",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/50900c4926",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/b6303815e9"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "50900c4926",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "b6303815e9",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 5,
+    "review_number": 1,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "Genesis Plaza, Tombia road GRA PH1, PH, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8237540000000001,
+    "longitude": 6.9929750000000004,
+    "minimum_order_amount": 1500,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 25,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 10.5,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 78,
+        "name": "Burger",
+        "url_key": "burger"
+      },
+      {
+        "id": 71,
+        "name": "Salads",
+        "url_key": "salads"
+      },
+      {
+        "id": 64,
+        "name": "Sandwiches",
+        "url_key": "sandwiches"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n0de/sky-bar",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "sky-bar",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18695,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "16:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18696,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "16:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18697,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "16:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18698,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "16:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18700,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "16:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18699,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "15:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 18701,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "15:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59069,
+        "date": "2018-09-23",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      },
+      {
+        "id": 59054,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/50900c4926",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1332,
+    "is_active": true,
+    "code": "n2gv",
+    "name": "Alibaba Pizza",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n2gv.jpg?v=20170531131812",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": "https://d2lev5xroqke9e.cloudfront.net/ng/view/df7ac55546",
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/88423a6a07"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": {
+        "version": 0,
+        "code": "df7ac55546",
+        "content_type": "image-hero-banner"
+      },
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "88423a6a07",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 3.8999999999999999,
+    "review_number": 15,
+    "review_with_comment_number": 1,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "31, Stadium road, Rumuomasi, Port Harcourt",
+    "address_line2": null,
+    "post_code": null,
+    "latitude": 4.8354889999999999,
+    "longitude": 7.0139529999999999,
+    "minimum_order_amount": 1000,
+    "minimum_delivery_fee": 450,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 20,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 66,
+        "name": "Pizza",
+        "url_key": "pizza"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n2gv/alibaba-pizza",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "alibaba-pizza",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 17441,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17442,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17443,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17444,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17445,
+        "weekday": 6,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      },
+      {
+        "id": 17446,
+        "weekday": 7,
+        "opening_type": "delivering",
+        "opening_time": "12:00",
+        "closing_time": "20:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 59047,
+        "date": "2018-09-23",
+        "opening_type": "unavailable",
+        "opening_time": "16:30",
+        "closing_time": "18:30"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 2,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": "https://d2lev5xroqke9e.cloudfront.net/ng/view/df7ac55546",
+    "minimum_delivery_time_range": "60"
+  },
+  {
+    "id": 1488,
+    "is_active": true,
+    "code": "n9ux",
+    "name": "CMK Culinary Art",
+    "description": null,
+    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n9ux.jpg",
+    "cms_content": {
+      "vendor_logo": null,
+      "vendor_hero_banner": null,
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": "https://d2lev5xroqke9e.cloudfront.net/ng/view/78f4baf70a"
+    },
+    "cms_content_container": {
+      "vendor_logo": null,
+      "vendor_hero_banner": null,
+      "vendor_hero_listing_image": null,
+      "vendor_wide_logo": {
+        "version": 0,
+        "code": "78f4baf70a",
+        "content_type": "image-vendor-wide-logo"
+      }
+    },
+    "rating": 1,
+    "review_number": 1,
+    "review_with_comment_number": 0,
+    "city": {
+      "id": 3,
+      "name": "Port Harcourt",
+      "url_key": "port-harcourt",
+      "is_top_city": null,
+      "is_main_city": null
+    },
+    "chain": {
+      "id": 0,
+      "name": null,
+      "is_accepting_global_vouchers": true,
+      "main_vendor_code": null,
+      "main_vendor_id": 0,
+      "url_key": null,
+      "code": null
+    },
+    "address": "CMK Culinary Art School",
+    "address_line2": "36 trans Amadi rd.,  Rumuobiakani opp TCN powerline",
+    "post_code": null,
+    "latitude": 4.8337899999999996,
+    "longitude": 7.0317629999999998,
+    "minimum_order_amount": 2000,
+    "minimum_delivery_fee": 400,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 10,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": false,
+    "is_preorder_enabled": false,
+    "is_preorder_available": false,
+    "is_closed_today": false,
+    "is_voucher_enabled": false,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": false,
+    "vat_percentage_amount": 5,
+    "is_service_tax_enabled": true,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": true,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": null,
+    "custom_location_url": null,
+    "customer_type": "all",
+    "metadata": null,
+    "cuisines": [
+      {
+        "id": 67,
+        "name": "Chinese",
+        "url_key": "chinese"
+      },
+      {
+        "id": 69,
+        "name": "Thai",
+        "url_key": "thai"
+      },
+      {
+        "id": 72,
+        "name": "International",
+        "url_key": "international"
+      }
+    ],
+    "food_characteristics": [],
+    "discounts": [],
+    "menus": [],
+    "web_path": "https://food.jumia.com.ng/restaurant/n9ux/cmk-culinary-art",
+    "is_test": false,
+    "redirection_url": null,
+    "payment_types": [],
+    "url_key": "cmk-culinary-art",
+    "website": "",
+    "customer_phone": null,
+    "schedules": [
+      {
+        "id": 18662,
+        "weekday": 1,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+      },
+      {
+        "id": 18663,
+        "weekday": 2,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+      },
+      {
+        "id": 18664,
+        "weekday": 3,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+      },
+      {
+        "id": 18665,
+        "weekday": 4,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+      },
+      {
+        "id": 18666,
+        "weekday": 5,
+        "opening_type": "delivering",
+        "opening_time": "10:00",
+        "closing_time": "18:00"
+      }
+    ],
+    "special_days": [
+      {
+        "id": 56771,
+        "date": "2018-08-18",
+        "opening_type": "closed",
+        "opening_time": "0:00",
+        "closing_time": "23:59"
+      }
+    ],
+    "is_new": false,
+    "delivery_fee_type": "amount",
+    "is_promoted": false,
+    "maximum_express_order_amount": 0,
+    "budget": 1,
+    "delivery_box": "",
+    "characteristics": null,
+    "tag": "",
+    "time_picker": [],
+    "hero_image": null,
+    "minimum_delivery_time_range": "60"
+  }
+]
