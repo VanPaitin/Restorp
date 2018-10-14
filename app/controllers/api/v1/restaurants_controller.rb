@@ -21,10 +21,12 @@ class Api::V1::RestaurantsController < ApplicationController
 
   def data(restaurants)
     {
-      total_restaurants_matched: restaurants.total_count,
-      restaurants_returned: restaurants.size,
-      current_page: restaurants.current_page,
-      total_pages: restaurants.total_pages,
+      meta: {
+        total_restaurants_matched: restaurants.total_count,
+        restaurants_returned: restaurants.size,
+        current_page: restaurants.current_page,
+        total_pages: restaurants.total_pages
+      },
       data: ActiveModel::Serializer::CollectionSerializer.new(restaurants)
     }
   end

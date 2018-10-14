@@ -51,4 +51,12 @@ Rails.application.configure do
   # Use an evented file watcher to asynchronously detect changes in source code,
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
+
+  config.after_initialize do
+    Bullet.enable = true
+    Bullet.bullet_logger = true
+    Bullet.rails_logger = true
+
+    Bullet.slack = { webhook_url: 'https://hooks.slack.com/services/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', channel: '#general' }
+  end
 end
