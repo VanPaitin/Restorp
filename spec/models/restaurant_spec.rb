@@ -12,7 +12,7 @@ RSpec.describe Restaurant, type: :model do
 
   it { is_expected.to validate_uniqueness_of(:name)}
 
-  it_behaves_like 'name search'
+  it_behaves_like 'a name search'
 
   describe '.by_city' do
     let(:city) { create(:city_with_restaurants) }
@@ -24,5 +24,24 @@ RSpec.describe Restaurant, type: :model do
     it { expect(restaurants).to_not include restaurant }
 
     it { expect(restaurants.count).to eql 2 }
+  end
+
+  describe '.by_cuisines' do
+    let(:american) { create(:cuisine, name: 'America') }
+    let!(:american_restaurant) do
+      restaurant = create(:restaurant)
+      restaurant.cuisines << american
+      restaurant
+    end
+    let(:non_american_restaurant) { create(:restaurant) }
+    let(:american_restaurants) { described_class.by_cuisines(american.id) }
+
+    it { expect(american_restaurants).to eq american.restaurants }
+
+    it { expect(american_restaurants).to include american_restaurant }
+
+    it { expect(american_restaurants).to_not include non_american_restaurant }
+
+    it { expect(american_restaurants.count).to eql 1 }
   end
 end

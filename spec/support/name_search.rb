@@ -1,8 +1,8 @@
-RSpec.shared_examples 'name search' do
+RSpec.shared_examples 'a name search' do
   it { expect(described_class).to respond_to(:search_by) }
 
   describe '.search_by' do
-    factory_name = described_class.name.underscore
+    let(:factory_name) { described_class.name.underscore }
     let(:record1) { create(factory_name, name: 'matches') }
     let(:record2) { create(factory_name, name: 'no-match') }
 
