@@ -6,5 +6,5 @@ RSpec.describe City, type: :model do
 
   it { is_expected.to validate_uniqueness_of(:name) }
 
-  it_should_behave_like 'name search'
+  it_should_behave_like 'a name search'
 end

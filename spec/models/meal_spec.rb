@@ -12,5 +12,5 @@ RSpec.describe Meal, type: :model do
     expect(meal).to be_valid
   end
 
-  it_should_behave_like 'name search'
+  it_should_behave_like 'a name search'
 end

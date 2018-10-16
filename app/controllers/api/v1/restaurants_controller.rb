@@ -10,9 +10,13 @@ class Api::V1::RestaurantsController < ApplicationController
       restaurants = restaurants.search_by(params[:query])
     end
 
+    if params[:cuisine_ids]
+      restaurants = restaurants.by_cuisines(params[:cuisine_ids])
+    end
+
     return empty_response if restaurants.empty?
 
-    paginated_restaurants = restaurants.includes(:cuisines, meals: [:cuisine]).page(params[:page]).per(params[:per_page])
+    paginated_restaurants = restaurants.includes(:cuisines, :meals).page(params[:page]).per(params[:per_page])
 
     render json: data(paginated_restaurants), status: 200
   end
