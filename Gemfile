@@ -37,6 +37,7 @@ gem 'rack-cors'
 
 gem 'factory_bot_rails'
 gem 'faker'
+gem 'shoulda-matchers', group: :test
 
 group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
