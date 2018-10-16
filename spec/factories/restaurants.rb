@@ -1,22 +1,22 @@
 FactoryBot.define do
   factory :restaurant do
-    city nil
-    is_active false
-    name "MyString"
-    description "MyString"
-    logo "MyString"
-    rating 1
-    review_number 1
-    address "MyString"
-    post_code 1
-    latitude 1.5
-    longitude 1.5
-    is_delivery_enabled false
-    is_pickup_enabled false
-    is_preorder_enabled false
-    web_path "MyString"
-    url_key "MyString"
-    is_new false
+    city
+    is_active { Faker::Boolean.boolean }
+    name { Faker::Lorem.sentence }
+    description { Faker::Lorem.paragraph }
+    logo { Faker::Internet.url }
+    rating { Faker::Number.between(1, 10) }
+    review_number { Faker::Number.between(1, 10) }
+    address { Faker::Address.full_address }
+    post_code { Faker::Address.postcode }
+    latitude { Faker::Address.latitude }
+    longitude { Faker::Address.longitude }
+    is_delivery_enabled { Faker::Boolean.boolean }
+    is_pickup_enabled { Faker::Boolean.boolean }
+    is_preorder_enabled { Faker::Boolean.boolean }
+    web_path { Faker::Internet.url }
+    url_key "my-string"
+    is_new { Faker::Boolean.boolean }
     schedules ""
   end
 end
