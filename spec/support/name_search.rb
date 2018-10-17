@@ -10,5 +10,4 @@ RSpec.shared_examples 'a name search' do
       expect(described_class.search_by('matches')).to eq [record1]
     end
   end
-
 end
