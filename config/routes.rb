@@ -5,6 +5,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :cities, only: :index
       resources :restaurants, only: :index
+      resources :meals, only: :index
     end
   end
 end
