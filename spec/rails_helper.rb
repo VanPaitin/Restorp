@@ -49,4 +49,8 @@ RSpec.configure do |config|
       with.library :rails
     end
   end
+
+  def json(response)
+    JSON.parse(response, symbolize_names: true)
+  end
 end
