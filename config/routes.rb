@@ -8,4 +8,8 @@ Rails.application.routes.draw do
       resources :meals, only: :index
     end
   end
+
+  scope 'api/v1' do
+    devise_for :users, defaults: { format: :json }
+  end
 end
