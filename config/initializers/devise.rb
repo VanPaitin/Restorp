@@ -266,22 +266,13 @@ Devise.setup do |config|
   #
   #     mount MyEngine, at: '/my_engine'
   #
-  # The router that invoked `devise_for`, in the example above, would be:
-  # config.router_name = :my_engine
-  #
-  # When using OmniAuth, Devise cannot automatically set OmniAuth path,
-  # so you need to do it manually. For the users scope, it would be:
-  # config.omniauth_path_prefix = '/my_engine/users/auth'
 
-  # ==> Turbolinks configuration
-  # If your app is using Turbolinks, Turbolinks::Controller needs to be included to make redirection work correctly:
-  #
-  # ActiveSupport.on_load(:devise_failure_app) do
-  #   include Turbolinks::Controller
-  # end
   config.jwt do |jwt|
     jwt.secret = ENV['DEVISE_JWT_SECRET_KEY']
   end
 
   config.navigational_formats = []
+  config.warden do |manager|
+    manager.failure_app = DeviseRespondJson
+  end
 end

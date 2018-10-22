@@ -1,0 +1,10 @@
+<h1>Hello <%= @name %>, Thanks for shopping at Restorp</h1>
+<h4>
+  You have successfully ordered for (a) meal(s)<br>
+</h4>
+<p>
+  You can track your order by clicking <%= link_to "Here", api_v1_order_url(@tracking_id) %>.
+</p>
+<p>If the link above does not seem to be clickable, copy and paste the url below in your browser</p>
+<%= api_v1_order_url(@tracking_id) %>
+<p>Thanks for ordering, do have a great day!</p>
