@@ -1,0 +1,10 @@
+<h1>Hello <%= @name %>, Thanks for shopping at Restorp</h1>
+<h4>
+  We will like to inform you that the status of your order has been updated<br>
+</h4>
+<p>
+  You can track your order by clicking <%= link_to "Here", api_v1_order_url(@tracking_id) %>.
+</p>
+<p>If the link above does not seem to be clickable, copy and paste the url below in your browser</p>
+<%= api_v1_order_url(@tracking_id) %>
+<p>We are happy to do business with you!</p>

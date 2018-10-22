@@ -6,7 +6,7 @@ Rails.application.routes.draw do
       resources :cities, only: :index
       resources :restaurants, only: :index
       resources :meals, only: :index
-      resources :orders, only: [:show, :create]
+      resources :orders, only: [:show, :create, :update]
     end
   end
 
