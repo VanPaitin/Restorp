@@ -1,0 +1,462 @@
+FORMAT: 1A
+HOST: https://restorp.herokuapp.com/
+
+# Restorp
+
+Restorp is an api that consumers can use to look up restaurants and meals info and then place an order for a choice meal. Customers are also able to track the status of their orders given a ***tracking_id*** or a ***tracking_url***.
+
+## Restaurants Collection [/api/v1/restaurants]
+
+The most fundamental function of the api is to facilitate querying of restaurants by users. You can also pass in query parameters to scope your search. Query parameters allowed are:
+
+* Pagination parameters: `page` and `per_page`
+* Cuisine group - This should be entered as an array of `cuisine_ids`
+* City - You can also filter restaurants by entering their `city_id`
+
+
+### List All Restaurants [GET]
+
+In addition to the above query parameters, you can also pass in a `query` parameter to search for a restaurants
+
++ Response 200 (application/json)
+
+        {
+            "meta": {
+                "total_records_matched": 254,
+                "records_returned": 3,
+                "current_page": 1,
+                "total_pages": 85
+            },
+            "data": [
+                {
+                    "id": 1,
+                    "city_id": 1,
+                    "is_active": true,
+                    "name": "KFC - Wuse II",
+                    "description": "So Good",
+                    "logo": "http://ir0.mobify.com/jpg/%s/%s/http://africa-public.food.jumia.com/assets/production/ng/images/vendors/n7aa.jpg?v=20150923102306",
+                    "rating": 4,
+                    "review_number": 13,
+                    "address": "KFC Wuse 2 Plot 112, Aminu Kano Crescent  Adjacent to Glo Office Wuse 2, Abuja",
+                    "post_code": null,
+                    "latitude": 9.075184,
+                    "longitude": 7.506084,
+                    "is_delivery_enabled": true,
+                    "is_pickup_enabled": false,
+                    "is_preorder_enabled": true,
+                    "web_path": "https://food.jumia.com.ng/restaurant/n0sa/kfc-wuse-ii-vendor",
+                    "url_key": "kfc-wuse-ii-vendor",
+                    "is_new": true,
+                    "schedules": [
+                        {
+                            "Sunday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Monday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Tuesday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Wednesday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Thursday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Friday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        },
+                        {
+                            "Saturday": {
+                                "closing_time": "22:00",
+                                "opening_time": "9:00",
+                                "opening_type": "delivering"
+                            }
+                        }
+                    ],
+                    "created_at": "2018-10-12T14:56:23.419Z",
+                    "updated_at": "2018-10-12T14:56:23.419Z",
+                    "meals": [
+                        {
+                            "id": 4,
+                            "name": "Pizza",
+                            "description": "Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",
+                            "number_in_stock": 3,
+                            "price": "1700.0",
+                            "restaurant_id": 1,
+                            "cuisine_id": 1,
+                            "cuisine": "Burger"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Pizza",
+                            "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                            "number_in_stock": 8,
+                            "price": "1950.0",
+                            "restaurant_id": 1,
+                            "cuisine_id": 2,
+                            "cuisine": "International"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Caesar Salad",
+                            "description": "Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",
+                            "number_in_stock": 5,
+                            "price": "1050.0",
+                            "restaurant_id": 1,
+                            "cuisine_id": 3,
+                            "cuisine": "Western"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Vegetable Soup",
+                            "description": "Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",
+                            "number_in_stock": 7,
+                            "price": "1800.0",
+                            "restaurant_id": 1,
+                            "cuisine_id": 4,
+                            "cuisine": "American"
+                        }
+                    ],
+                    "cuisines": [
+                        {
+                            "id": 1,
+                            "name": "Burger",
+                            "url_key": "burger",
+                            "created_at": "2018-10-12T14:56:23.471Z",
+                            "updated_at": "2018-10-12T14:56:23.471Z"
+                        },
+                        {
+                            "id": 2,
+                            "name": "International",
+                            "url_key": "international",
+                            "created_at": "2018-10-12T14:56:23.502Z",
+                            "updated_at": "2018-10-12T14:56:23.502Z"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Western",
+                            "url_key": "western",
+                            "created_at": "2018-10-12T14:56:23.519Z",
+                            "updated_at": "2018-10-12T14:56:23.519Z"
+                        },
+                        {
+                            "id": 4,
+                            "name": "American",
+                            "url_key": "american",
+                            "created_at": "2018-10-12T14:56:23.538Z",
+                            "updated_at": "2018-10-12T14:56:23.538Z"
+                        }
+                    ]
+                }
+            ]
+        }
+
+
+
+## Meals Collection [/api/v1/meals?city_id=2&query=room]
+
++ You can also search for a meal and keep track of their ***ids***
+
+
+### Searching for a meal [GET]
+
+In order to search for a meal, you need to supply the ***city_id*** and a query term. Failure to do that will result in an error.
+
++ Response 200 (application/json)
+
+        {
+            "meta": {
+                "total_records_matched": 12,
+                "records_returned": 2,
+                "current_page": 1,
+                "total_pages": 6
+            },
+            "data": [
+                {
+                    "id": 189,
+                    "name": "Mushroom Risotto",
+                    "description": "Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",
+                    "number_in_stock": 6,
+                    "price": "1900.0",
+                    "restaurant_id": 58,
+                    "cuisine_id": 12,
+                    "cuisine": "Salads"
+                },
+                {
+                    "id": 298,
+                    "name": "Mushroom Risotto",
+                    "description": "Breaded fried chicken with waffles. Served with maple syrup.",
+                    "number_in_stock": 9,
+                    "price": "1550.0",
+                    "restaurant_id": 89,
+                    "cuisine_id": 14,
+                    "cuisine": "African"
+                }
+            ]
+        }
+        
+### Searching for a meal without necessary query parameters [GET /api/v1/meals?city_id=2]
+
+If you fail to pass in the required parameters as stated, you will get an error
+
++ Response 422 (application/json)
+
+        {
+            "invalid": "You need to provide a city id and a query term"
+        }
+
+
+## User Management [/api/v1/users/*]
+
+
+In order to be able to place an order, you must have been able to signup to use the service. Upon signup and then subsequent logins, a bearer token is dispatched on the response headers. This token is a bearer token and should be sent along with any request that requires authentication like ordering for meals. In order to successfully create a user, a firstname must be supplied and the email used must not be used by a previously registered user.
+
+### User signup [POST /api/v1/users]
+
+This is the request body format when you are trying to signup. Notice the `user` root key.
+
++ Request (application/json)
+
+        {
+            "user": {
+                "email": "restorp@example.com",
+                "password": "password",
+                "first_name": "Restaurant",
+                "last_name": "Restorp"
+            }
+        }
+        
++ Response 201 (application/json)
+        
+        {
+            "id": 1,
+            "email": "restorp@example.com",
+            "created_at": "2018-10-23T15:21:37.337Z",
+            "updated_at": "2018-10-23T15:21:37.337Z",
+            "first_name": "Restaurant",
+            "last_name": "Restorp"
+        }     
+   
+
+### User signin [POST /api/v1/users/sign_in]
+
+The request format when you are trying to authenticate a user that has previously signed up
+
++ Request (application/json)
+
+        {
+            "user": {
+                "email": "restorp@example.com",
+                "password": "password"
+            }
+        }
+        
++ Response 201 (application/json)
+
+        {
+            "id": 1,
+            "email": "restorp@example.com",
+            "created_at": "2018-10-23T15:21:37.337Z",
+            "updated_at": "2018-10-23T15:21:37.337Z",
+            "first_name": "Restaurant",
+            "last_name": "Restorp"
+        }
+
+
+### Unauthorized Requests [POST /api/v1/orders]
+
+When you try to make a request to a protected route, you will get an unauthorized response notifying you of the absence of a valid token
+
+* Response 401 (application/json)
+
+        {
+            "errors": [
+                {
+                    "status": "401",
+                    "title": "You need to sign in or sign up before continuing."
+                }
+            ]
+        }
+                
+## Order Management [/api/v1/orders]
+
+All requests to the order endpoint assumes that you are passing in a valid bearer token
+
++ Request (application/json)
+
+        {
+            "meals": [
+                {
+                    "meal_id": 2, "quantity": 1
+                },
+                {
+                    "meal_id": 5, "quantity": 2
+                }
+            ]
+        }
+
+### Successful Order Creation [POST /api/v1/orders]
+
+If there are no issues, you will get an email in your registered email address confirming your order and a ***tracking_id***. You will also get a response like below:
+
++ Response 201 (application/json)
+
+        {
+            "tracking_id": "urUCH6YKCJRCBppBzFSDWyzF",
+            "total_price": "₦ 3750.0",
+            "status": "pending",
+            "meals": [
+                {
+                    "name": "Chicken Wings",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "Western",
+                    "unit_price": "1600.0",
+                    "quantity": 1,
+                    "total_price": "₦ 1600.0"
+                },
+                {
+                    "name": "Pork Belly Buns",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "American",
+                    "unit_price": "2150.0",
+                    "quantity": 1,
+                    "total_price": "₦ 2150.0"
+                }
+            ]
+        }
+
+### Unsuccessful Order creation [POST /api/v1/orders/]
+
+If there are no enough meals in stock you get a response like below:
+
++ Response 422 (application/json)
+
+        {
+            "errors": [
+                {
+                    "params": {
+                        "meal_id": 5,
+                        "quantity": 2
+                    },
+                    "error": {
+                        "meal": [
+                            "There are no enough meals in stock"
+                        ]
+                    }
+                }
+            ]
+        }
+
+
+### Tracking an Order status [GET /api/v1/orders/:id]
+
+Giving a valid tracking id, we can always check the details of an order and observe its status whether it is still pending, processing, or ready. Note this particular endpoint does not require authentication
+
++ Response 200 (application/json)
+
+        {
+            "tracking_id": "urUCH6YKCJRCBppBzFSDWyzF",
+            "total_price": "₦ 3750.0",
+            "status": "pending",
+            "meals": [
+                {
+                    "name": "Chicken Wings",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "Western",
+                    "unit_price": "1600.0",
+                    "quantity": 1,
+                    "total_price": "₦ 1600.0"
+                },
+                {
+                    "name": "Pork Belly Buns",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "American",
+                    "unit_price": "2150.0",
+                    "quantity": 1,
+                    "total_price": "₦ 2150.0"
+                }
+            ]
+        }
+
+### Updating an Order status [/api/v1/orders/:id]
+
+A restaurant chef can hit this endpoint to update the status of an order. The chef will need to pass in the id of the order as well
+
+#### Successful Update [PUT /api/v1/orders/:id]
+
+The valid statuses are *pending*, *processing*, *ready* and *delivered*. If you update the status of an order to any of these, the owner of the order will receive an email notifying them of the order status change. Here is how the response will to the endpoint will look like.
+
++ Request (application/json)
+
+        {
+            "status": "ready"
+        }
+        
++ Response 200 (application/json)
+
+        {
+            "tracking_id": "urUCH6YKCJRCBppBzFSDWyzF",
+            "total_price": "₦ 3750.0",
+            "status": "ready",
+            "meals": [
+                {
+                    "name": "Chicken Wings",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "Western",
+                    "unit_price": "1600.0",
+                    "quantity": 1,
+                    "total_price": "₦ 1600.0"
+                },
+                {
+                    "name": "Pork Belly Buns",
+                    "description": "28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",
+                    "cuisine": "American",
+                    "unit_price": "2150.0",
+                    "quantity": 1,
+                    "total_price": "₦ 2150.0"
+                }
+            ]
+        }
+
+#### Unsuccessful Update [PUT /api/v1/orders/:id/]
+
+You will get an error message when the chef tries to update to an invalid status
+
++ Request (application/json)
+
+        {
+            "status": "invalid status"
+        }
+        
++ Response 422 (application/json)
+
+        {
+            "status": [
+                "invalid status is not a valid status"
+            ]
+        }
