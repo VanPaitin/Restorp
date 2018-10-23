@@ -4,7 +4,7 @@ class MealOrder < ApplicationRecord
 
   delegate :price, :name, :description, :cuisine_name, to: :meal
 
-  validates :total_price, presence: true, numericality: { greater_than_or_equal_to: 0 }
+  validates :total_price, numericality: { greater_than_or_equal_to: 0 }
   validate :ensure_meal_is_available
 
   before_validation :populate_total_price

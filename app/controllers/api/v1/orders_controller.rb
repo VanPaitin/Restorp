@@ -13,7 +13,7 @@ class Api::V1::OrdersController < ApplicationController
 
     if order.valid?
       order_service.create_order
-      render json: order
+      render json: order, status: :created
     else
       render json: order_service.errors, status: 422
     end

@@ -1,24 +1,9 @@
-# README
+# Restorp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### INTRODUCTION
 
-Things you may want to cover:
+Restorp is an api that consumers can use to look up restaurants and meals info and then place an order for a choice meal. Customers are also able to track the status of their orders given a ***tracking_id*** or a ***tracking_url***.
 
-* Ruby version
+### Usage
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please visit the site [here](https://restorp.herokuapp.com) to read the full documentation and use

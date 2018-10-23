@@ -9,7 +9,7 @@ Rails.application.routes.draw do
       resources :orders, only: [:show, :create, :update]
     end
   end
-
+  root "application#documentation"
   scope 'api/v1' do
     devise_for :users, defaults: { format: :json }
   end
