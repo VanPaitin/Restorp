@@ -230,6 +230,35 @@ If you fail to pass in the required parameters as stated, you will get an error
             "invalid": "You need to provide a city id and a query term"
         }
 
+## Listing cities [GET /api/v1/cities]
+
+Please note that the `/cities` route can be supplied an optional `query` parameter so you can search for cities
+
++ Response 200 (application/json)
+
+        [
+            {
+                "id": 1,
+                "name": "Abuja",
+                "url_key": "abuja",
+                "created_at": "2018-10-23T15:20:20.933Z",
+                "updated_at": "2018-10-23T15:20:20.933Z"
+            },
+            {
+                "id": 2,
+                "name": "Lagos",
+                "url_key": "lagos",
+                "created_at": "2018-10-23T15:20:20.955Z",
+                "updated_at": "2018-10-23T15:20:20.955Z"
+            },
+            {
+                "id": 3,
+                "name": "Port Harcourt",
+                "url_key": "port-harcourt",
+                "created_at": "2018-10-23T15:20:20.974Z",
+                "updated_at": "2018-10-23T15:20:20.974Z"
+            }
+        ]
 
 ## User Management [/api/v1/users/*]
 
