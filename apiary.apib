@@ -307,6 +307,11 @@ When you try to make a request to a protected route, you will get an unauthorize
 
 All requests to the order endpoint assumes that you are passing in a valid bearer token
 
+
+### Successful Order Creation [POST /api/v1/orders]
+
+If there are no issues, you will get an email in your registered email address confirming your order and a ***tracking_id***. You will also get a response like below:
+
 + Request (application/json)
 
         {
@@ -319,10 +324,6 @@ All requests to the order endpoint assumes that you are passing in a valid beare
                 }
             ]
         }
-
-### Successful Order Creation [POST /api/v1/orders]
-
-If there are no issues, you will get an email in your registered email address confirming your order and a ***tracking_id***. You will also get a response like below:
 
 + Response 201 (application/json)
 
