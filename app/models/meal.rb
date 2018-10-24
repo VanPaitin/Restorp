@@ -1,6 +1,6 @@
 class Meal < ApplicationRecord
-  belongs_to :restaurant
   belongs_to :cuisine
+  belongs_to :restaurant
 
   include SearchName
 
