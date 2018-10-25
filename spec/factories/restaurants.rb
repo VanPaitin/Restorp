@@ -15,7 +15,7 @@ FactoryBot.define do
     is_pickup_enabled { Faker::Boolean.boolean }
     is_preorder_enabled { Faker::Boolean.boolean }
     web_path { Faker::Internet.url }
-    url_key "my-string"
+    url_key { name.downcase.gsub(/\s/, '-') }
     is_new { Faker::Boolean.boolean }
     schedules ""
   end
