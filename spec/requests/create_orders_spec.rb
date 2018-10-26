@@ -14,7 +14,9 @@ RSpec.describe "CreateOrders", type: :request do
     end
 
     context "when user is authenticated" do
-      let(:headers) { { 'Accept' => 'application/json', 'Content-Type' => 'application/json' } }
+      let(:headers) do
+        { 'Accept' => 'application/json', 'Content-Type' => 'application/json' }
+      end
       let(:auth_headers) { Devise::JWT::TestHelpers.auth_headers(headers, user) }
 
       context "when the requested meal has insufficient number in stock" do
@@ -53,7 +55,9 @@ RSpec.describe "CreateOrders", type: :request do
             ]
           }.to_json
         end
-        let(:request) { proc { post api_v1_orders_path, params: params, headers: auth_headers } }
+        let(:request) do
+          proc { post api_v1_orders_path, params: params, headers: auth_headers }
+        end
 
         it { expect(request).to change(Order, :count).by(1) }
 
